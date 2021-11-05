@@ -1,0 +1,17 @@
+Name:  	Sinedje Takoumbo Landry 
+Course:	introduction into software engineering 
+Registration number:	:ET20210717 
+Speciality:	software engineering 
+A) A complexe real-time systems whose requirements can be relatively identified and are stable
+The water fall model because it can easily  understand and manage which is the most straight forward sdlc models 
+b) A web-site for a local library. Requirements are vague and are likely to change in the future.
+The incremental and irritative model.
+This is because this sdlc model entails some customers involvement because of the possible need in small requirements amendments during the development process 
+c) An order processing system with a web-site for a local business. Requirements are vague but stable (i.e. unlikely to change in the near future).
+The spiral model
+This is a model where intensive customer involvement appears.IT can be involved in exploration and review stages of each cycle at the development stage,the customer amendment are not acceptable 
+2) Describe the software process model that you have proposed in question 5(a) highlighting its strengths and weaknesses.
+
+The waterfall model
+In this stage through all development phases(analysis,design,coding,testing,deployment)the process move in a cascade mode.Each stage has concrete deliverable and is strictly documented.the next stage cannot start before the previous one is completed(that is finishing one phase before going to another one)
+There is also no ability to see and try the software until the last process is complete otherwise the model is easy to understand and manage 
